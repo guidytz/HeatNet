@@ -44,6 +44,6 @@ optional arguments:
   --fps FPS             Set the the gif fps (default = 4)
 ```
 
-One can test the scrip with the example [5x5 network](https://github.com/guidytz/HeatNet/tree/master/cenario/5x5).
+One can test the scrip with the example [5x5 network](https://github.com/guidytz/HeatNet/tree/master/scenario/5x5).
 
-The resulting gifs can be seen in [animations](https://github.com/guidytz/HeatNet/tree/master/animations)
+The resulting gifs can be seen in [animations](https://github.com/guidytz/HeatNet/tree/master/animations).
