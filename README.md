@@ -39,6 +39,11 @@ optional arguments:
   -n NET_PATH, --network NET_PATH
                         Path to the network file (mandatory)
   -p PATH, --path PATH  Path to folder containing csv files to take average (mandatory)
-  --avg                 Informs if path has one or multiple csv files and, in case of multiple files, the heatmap considers an average of those files
+  --avg                 Informs if path has one or multiple csv files and, in case of multiple files, 
+                        the heatmap considers an average of those files
   --fps FPS             Set the the gif fps (default = 4)
 ```
+
+One can test the scrip with the example [5x5 network](https://github.com/guidytz/HeatNet/tree/master/cenario/5x5).
+
+The resulting gifs can be seen in [animations](https://github.com/guidytz/HeatNet/tree/master/animations)
